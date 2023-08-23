@@ -1,4 +1,4 @@
-e# Olá! Obrigado pela visita! :smiley_cat:
+# Olá! Obrigado pela visita! :smiley_cat:
 
 Eu me chamo Leonardo Müller e comeceu minha jornada como desenvolvedor backend no começo de 2023!
 Estou aprendendo a criar APIs com Javascript e montando bancos de dados em SQL. 
